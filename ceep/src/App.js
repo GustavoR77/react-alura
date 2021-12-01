@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react'
 import ListaDeNotas from './components/ListaDeNotas'
 import { FormularioCadastro } from './components/FormularioCadastro'
 
@@ -8,8 +8,7 @@ function App() {
       <FormularioCadastro />
       <ListaDeNotas />
     </>
-  );
+  )
 }
-//react -> lib
-//React -> Ecossistema
-export default App;
+
+export default App
